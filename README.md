@@ -10,7 +10,7 @@
 
 # :seedling: Data source
 
-The datasource we are using is patient having Heart attack or no based on somes features.
+The datasource we are using is patient having Heart based on somes features.
 
 # :v: Contributors 
 
