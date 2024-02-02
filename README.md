@@ -3,13 +3,12 @@
 <h3 align="center"> University project. Using and compare differents ML algorithms.</h3>
 
 
- ![-----------------------------------------------------]
 # :orange_book: Table of contents 
 
 *Work in progress*
 
 
-# :seedling: Data sourceZ
+# :seedling: Data source
 
 The datasource we are using is patient having Heart attack or no based on somes features.
 
